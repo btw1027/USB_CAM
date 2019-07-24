@@ -1,0 +1,14 @@
+# Vim
+*.swp
+
+# Python
+*.pyc
+__pycache__/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Singularity
+*.img
